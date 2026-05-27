@@ -1,0 +1,2 @@
+# UIII_Act_5_Proyecto_de_simulacion_de_IA_Ramirez-
+aqui se guardan documentos relacionados con la actividad UIII_Act_5_Proyecto_de_simulacion_de_IA_Ramirez 
